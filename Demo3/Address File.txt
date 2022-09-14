@@ -1,0 +1,6 @@
+Id;Street;Town;Country;Postcode
+1;19 West Close; Shefford;West Sussex;WE24 8ST
+2;140 Great Square;Slough;Cornwall;CO43 3RN
+3;Maria Probst Strasse 3;Heidelberg;Germany;69123
+4;Ludwig Guttmann Stasse 2;Heidelberg;Germany;69123
+5;153 Dee Avenue;Shefford;County Down;CO63 5UN
