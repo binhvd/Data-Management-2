@@ -1,0 +1,6 @@
+emp_no;emp_name;emp_skills
+101;Johnson;Java,SQL,C++
+102;Sachin;Oracle,HTML,JSP
+103;Micheal;Talend,Ajax,JSP,HTML
+
+
